@@ -1,0 +1,70 @@
+html {
+    background: url(../images/tiny-squares.png);
+}
+
+
+body {
+    border-radius: 25px;
+    border: 5px solid #99e6ff;
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30px;
+    background-color: #ffffff;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+}
+
+
+a {
+    text-decoration: none;
+    border-radius: 20px;
+    border: 3px solid #fbd5fb;
+    padding: 5px;
+    margin: 5px;
+    color: #818198;
+    font-size: 18px;   
+}
+
+
+header {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+
+section {
+    margin-top: 50px;
+    margin-bottom: 40px;
+    border-color: #9ce89c;  
+}
+
+article {
+    padding: 0px 100px 50px 100px;
+}
+
+
+
+h1 {
+    border-bottom: 9px dotted;
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    color: #b3b3ff
+}
+
+h2 {
+    font-size: 16px;
+    color: #666				
+}
+
+p {
+    font-size: 16px;
+    color: #818198;
+    line-height: 26px;
+}
+			
+ul {
+    list-style: none;
+    color: #818198;
+    line-height: 26px;
+}
